@@ -1,7 +1,5 @@
 package com.github.cc.demo.config;
 
-import com.github.cc.config.CaffeineMonitorAutoConfig;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 
 /**
